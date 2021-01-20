@@ -11,3 +11,7 @@ Age Data:
 
 25
 30
+
+Sex:
+Male
+Male
